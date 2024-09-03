@@ -1,0 +1,5 @@
+PORT=5000
+DATABASE_URL="mysql://root:@localhost:3306/fbapi"
+EMAIL="email@gmail.com"
+APP_PASSWORD="email_password"
+SECRET_KEY="my_secret_key_for_jwt"
